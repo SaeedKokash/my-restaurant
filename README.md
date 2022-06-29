@@ -68,3 +68,7 @@ Contact us at +962 00 0000 000
 OR
 
 You can reserve [here](www.vikingsreservefakelink.com) 
+
+# **WIREFRAME IMAGE**
+
+![Restaurant Wireframe Image](WireframeforJS03.jpg)
