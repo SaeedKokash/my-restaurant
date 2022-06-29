@@ -71,4 +71,4 @@ You can reserve [here](www.vikingsreservefakelink.com)
 
 # **WIREFRAME IMAGE**
 
-![Restaurant Wireframe Image](/home/skokash/my-restaurant/Wireframe for JS03.jpg)
+![Restaurant Wireframe Image](WireframeforJS03.jpg)
