@@ -69,6 +69,20 @@ OR
 
 You can reserve [here](www.vikingsreservefakelink.com) 
 
-# **WIREFRAME IMAGE**
+# **HOME WIREFRAME IMAGE**
 
-![Restaurant Wireframe Image](WireframeforJS03.jpg)
+![Restaurant Wireframe Image](images/WireframeforJS03.jpg)
+
+# **ABOUT WIREFRAME IMAGE**
+
+![Restaurant Wireframe Image](images/AboutWireframeForJS03.jpg)
+
+# **ANSWERS TO THE TASK QUESTIONS**
+
+**Q1: What observations or questions do you have about what you’ve learned so far?**
+
+A1: I don't have any questions about HTML so far as I find it easy to manage and could handle it quite good in terms of functionality and coding, yet I still havent learnt styling in CSS but I've searched alot through the weekend on how to display my website as my Wireframe layout but had many difficulties understanding a few things, so hopefully I'll be able to manage it when we take it in the course.
+
+**Q2: How long did it take you to complete this assignment? And, before you started, how long did you think it would take you to complete this assignment?**
+
+A2: It didnt take long to complete the main requirements of the assignement, I believe it took about 2 hours to finish the home and about pages in terms of HTML only with minimum requirements. however, for the styling with CSS as I mentioned before, it took me a while to search and learn about it so it took alot more time to do and still the home page doesnt look so good after what I've done. I thought the whole assignment will take 2-3 hours and so it did.
